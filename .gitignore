@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.idea/.gitignore
+.idea/Codewars_to_Git.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+venv/
