@@ -13,3 +13,6 @@ gen
 .idea/modules.xml
 .idea/vcs.xml
 venv/
+
+# Нерешенные задачи
+String_Templates_Bug_Fixing_#5.py
