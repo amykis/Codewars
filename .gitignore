@@ -1,6 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 
-
 # IntelliJ project files
 .idea
 *.iml
@@ -16,3 +15,6 @@ venv/
 
 # Нерешенные задачи
 String_Templates_Bug_Fixing_#5.py
+Plural.py
+Wilson_primes.py
+
